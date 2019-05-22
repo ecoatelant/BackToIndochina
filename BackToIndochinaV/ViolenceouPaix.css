@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+	background: black;
+}
+
+h1 {
+	border-bottom: 2px grey solid;
+	width : 400px;
+	margin-left:  40%;
+	margin-top: 5%;
+	color: white;
+	padding-bottom: 40px;
+	text-align: center;
+	font-family: monospace;
+}
+
+h1:hover {
+	border-bottom-color: red;
+	color:red;
+}
+
+#img {
+	margin-top: 5%;
+}
+
+#pancarte {
+	width: 25%
+	height: 25%;
+	margin-left: 15%;
+	margin-top: 3%;
+	transform: rotate(-15deg);
+	display: inline-block;
+	float:left;
+}
+
+#pancarte:hover {
+	transform: rotate(15deg);
+}
+
+#arme {
+	margin-top: 4%;
+	margin-right: 17%;
+	width: 25%;
+	transform: rotate(-15deg);
+	display: inline-block;
+	float: right;
+}
+#arme:hover {
+	transform: rotate(0deg);
+}
