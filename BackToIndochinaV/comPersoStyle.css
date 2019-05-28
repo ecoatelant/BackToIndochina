@@ -1,0 +1,135 @@
+body{
+	background-image: url(imgs/manifantiguerreindochine1969.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+	font-weight: bold;
+	font-family: monospace, sans-serif;
+	text-align: center;
+}
+
+#precedent{
+	position: absolute;
+	left: 1%;
+	top: 1%;
+}
+
+#title{
+	margin: 2%;
+	font-size: xx-large;
+}
+
+#leader{
+	position: absolute;
+	left: 8.33%;
+	top: 18%;
+	width: 22.19%;
+}
+
+#leader a{
+	display: block;
+	padding: 30%;
+	background-color: black;
+	border: 3px black solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+}
+
+#leader p{
+	display: block;
+	font-size: large;
+}
+
+#leader a:hover{
+	display: block;
+	padding: 30%;
+	background-color: red;
+	border: 3px red solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+
+}
+
+#leader p:hover{
+	display: block;
+	font-size: large;
+	color:red;
+}
+
+#classique{
+	position: absolute;
+	left: 38.9%;
+	top: 18%;
+	width: 22.19%;
+}
+
+#classique a{
+	display: block;
+	padding: 30%;
+	background-color: black;
+	border: 3px black solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+}
+
+#classique p{
+	display: block;
+	font-size: large;
+}
+
+#classique a:hover{
+	display: block;
+	padding: 30%;
+	background-color: red;
+	border: 3px red solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+}
+
+#classique p:hover{
+	display: block;
+	font-size: large;
+	color:red;
+}
+
+#lache{
+	position: absolute;
+	left: 69.48%;
+	top: 18%;
+	width: 22.19%;
+}
+
+#lache a{
+	display: block;
+	padding: 30%;
+	background-color: black;
+	border: 3px black solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+}
+
+#lache p{
+	display: block;
+	font-size: large;
+}
+
+#lache a:hover{
+	display: block;
+	padding: 30%;
+	background-color: red;
+	border: 3px red solid;
+	border-radius: 10px;
+	text-decoration: none;
+	color:white;
+}
+
+#lache p:hover{
+	display: block;
+	font-size: large;
+	color:red;
+}
