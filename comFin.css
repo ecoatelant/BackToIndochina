@@ -1,0 +1,39 @@
+body{
+	background-image: url(manifantiguerreindochine1969.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: center;
+	color: white;
+	font-weight: bold;
+}
+
+h1{
+	font-size: xx-large;
+	text-align: center;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	margin-left: 460px;
+	margin-right: 460px;
+}
+
+img{
+	width: 810px;
+	margin-left: 543px;
+	margin-right: 543px;
+	margin-bottom: 3%;
+}
+
+#paragrapheFin{
+	background-color: black;
+	text-align: center;
+	font-size: large;
+	margin-left: 460px;
+	margin-right: 460px;
+}
+
+p{
+	padding: 1%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}

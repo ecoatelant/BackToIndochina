@@ -1,135 +1,102 @@
 body{
 	background-image: url(manifantiguerreindochine1969.png);
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 1920px 1020px;
 	color: white;
 	font-weight: bold;
 	font-family: monospace, sans-serif;
 	text-align: center;
 }
 
-#precedent{
-	position: absolute;
-	left: 1%;
-	top: 1%;
-}
-
-#title{
-	margin: 2%;
-	font-size: xx-large;
-}
-
 #leader{
 	position: absolute;
-	left: 8.33%;
-	top: 18%;
-	width: 22.19%;
+	left: 160px;
+	top: 280px;
+	width: 426px;
 }
 
-#leader a{
-	display: block;
-	padding: 30%;
-	background-color: black;
-	border: 3px black solid;
+#leader h1{
+	padding: 100px;
+	border: 3px solid black;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
+	background-color: black;
 }
 
 #leader p{
-	display: block;
-	font-size: large;
+	position: absolute;
+	left: 160px;
+	top: 280px;
+	font-size: x-large;
 }
 
-#leader a:hover{
-	display: block;
-	padding: 30%;
-	background-color: red;
-	border: 3px red solid;
+#leader h1:hover{
+	padding: 100px;
+	border: 3px solid red;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
-
+	background-color: red;
 }
 
 #leader p:hover{
-	display: block;
-	font-size: large;
+	font-size: x-large;
 	color:red;
 }
 
 #classique{
 	position: absolute;
-	left: 38.9%;
-	top: 18%;
-	width: 22.19%;
+	left: 747px;
+	top: 280px;
+	width: 426px;
 }
 
-#classique a{
-	display: block;
-	padding: 30%;
-	background-color: black;
-	border: 3px black solid;
+#classique h1{
+	padding: 100px;
+	border: 3px solid black;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
+	background-color: black;
 }
 
 #classique p{
-	display: block;
-	font-size: large;
+	font-size: x-large;
 }
 
-#classique a:hover{
-	display: block;
-	padding: 30%;
-	background-color: red;
-	border: 3px red solid;
+#classique h1:hover{
+	padding: 100px;
+	border: 3px solid red;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
+	background-color: red;
 }
 
 #classique p:hover{
-	display: block;
-	font-size: large;
+	font-size: x-large;
 	color:red;
 }
 
 #lache{
 	position: absolute;
-	left: 69.48%;
-	top: 18%;
-	width: 22.19%;
+	left: 1334px;
+	top: 280px;
+	width: 426px;
 }
 
-#lache a{
-	display: block;
-	padding: 30%;
-	background-color: black;
-	border: 3px black solid;
+#lache h1{
+	padding: 100px;
+	border: 3px solid black;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
+	background-color: black;
 }
 
 #lache p{
-	display: block;
-	font-size: large;
+	font-size: x-large;
 }
 
-#lache a:hover{
-	display: block;
-	padding: 30%;
-	background-color: red;
-	border: 3px red solid;
+#lache h1:hover{
+	padding: 100px;
+	border: 3px solid red;
 	border-radius: 10px;
-	text-decoration: none;
-	color:white;
+	background-color: red;
 }
 
 #lache p:hover{
-	display: block;
-	font-size: large;
+	font-size: x-large;
 	color:red;
 }
