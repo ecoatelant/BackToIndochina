@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+
+<HTML lang="fr">
+
+<head>
+	<title>A vous le pouvoir !</title>
+	<meta charset="UTF-8">
+	<LINK href="comFin.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<section>
+		<h1>Fin débloquée: Dictature</h1>
+		<img src="imgFinDictature.jpeg">
+		<div id="paragrapheFin"><p>En tant que leader, lorsque vous arrivez à la Maison Blanche avec votre petite armée de manifestants. Vous forcez la porte et vous décidez de tuer le président. Hop vous voilà dictateur.</p></div>
+	</section>
+</body>
